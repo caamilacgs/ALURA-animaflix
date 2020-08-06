@@ -1,6 +1,6 @@
 
-## ANIMAFLIX e uma streaming de animes.<br />
-- Projeto em desenvolvimento para Imersão React da Alura.
+## ANIMAFLIX e uma streaming de animes. 
+- Projeto em desenvolvimento para Imersão React da Alura. <br />
 Link: https://animaflix-caamilacgs.vercel.app/
 
 ### Available Scripts
