@@ -1,6 +1,6 @@
 
 ## ANIMAFLIX e uma streaming de animes.<br />
-- Projeto em desenvolvimento para a Imersão React da Alura.
+- Projeto em desenvolvimento para Imersão React da Alura.
 
 
 ### Available Scripts
